@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692642155 source:y:\iti(ios)\introduction to programming using c\day 3\magicsquare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
